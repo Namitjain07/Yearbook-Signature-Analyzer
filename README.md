@@ -40,10 +40,6 @@ Least signatures: name2
 
 ```
 
-In this example, 
-- name1
- and 
-- name3
- have the most signatures, while name2 has the least.
+In this example, name1 and name3 have the most signatures, while name2 has the least.
 
 Please make sure to provide the input data in the correct format and update the program's code to include the yearbook dictionary before executing it.
